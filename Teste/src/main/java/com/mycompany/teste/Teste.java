@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.mycompany.teste;
 
 /**
@@ -19,7 +14,7 @@ public class Teste {
         System.out.println("Digite um valor alvo: ");
         alv = sc.nextInt();
         
-        int[] num = new int[10];
+        int[] num = new int[4];
         Scanner sc1 = new Scanner(System.in);
         System.out.println("Digite um valor da lita: ");
         num[0] = sc1.nextInt();
@@ -38,5 +33,17 @@ public class Teste {
         System.out.println("Deseja continuar (Y/N)? ");
         verifica = sc2.nextLine();
             }
+        for(int i=0;i<num.length;i++) {
+            for(int z=0;z<num.length;z++){
+               if(num[i] + num[z] == alv) {
+
+                int x = num[i] + num[z];
+                System.out.println(num[i] + " + " + num[z] +  " = " + x);
+               }
+            }
+        }
+            
+        
+        
 }
 }
