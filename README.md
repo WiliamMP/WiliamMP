@@ -1,7 +1,7 @@
 ### Olá eu me chamo Wiliam Manoel Patricio
 
-- 🔭 Atualmente estou a procura de emprego
-- 🌱 Estudando Javascript e PHP
+- 🔭 Atualmente na BM Soft como desenvolvedor
+- 🌱 Estudando Delphi e IA
 - ⚡ Fato engraçado já passei 3 horas tentando achar um error e era um ponto e vírgula
 
 <div align="center">
