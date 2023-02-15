@@ -28,3 +28,6 @@
   <a href="https://www.linkedin.com/in/wiliam-patricio-170069222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+<div>
+ <a href=""><img src="https://cdn.dribbble.com/users/2275151/screenshots/4543119/media/1079848698ed2db6a82c64fb5c2d3b1b.gif" target="_BLANK"></a>
+</div>
