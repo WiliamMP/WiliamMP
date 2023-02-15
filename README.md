@@ -29,5 +29,5 @@
  
 </div>
 <div>
- <a href=""><img src="https://cdn.dribbble.com/users/2275151/screenshots/4543119/media/1079848698ed2db6a82c64fb5c2d3b1b.gif" target="_BLANK"></a>
+ <a href=""><img align="center" src="https://cdn.dribbble.com/users/2275151/screenshots/4543119/media/1079848698ed2db6a82c64fb5c2d3b1b.gif" target="_BLANK"></a>
 </div>
