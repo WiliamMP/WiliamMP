@@ -1,7 +1,7 @@
 ### Olá eu me chamo Wiliam Manoel Patricio
 
 - 🔭 Atualmente na BM Soft como desenvolvedor em Delphi
-- 🌱 Estudando C++ e Assembly
+- 🌱 Estudando Python e C
 - ⚡ Fato engraçado já passei 3 horas tentando achar um error e era um ponto e vírgula
 
 <div align="center">
